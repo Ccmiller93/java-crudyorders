@@ -4,7 +4,7 @@ A student that completes this project shows that they can:
 
 * Perform CRUD operations on an RDBMS JPA and Hibernate (Creating and Updating Records)
 * Perform CRUD operations on an RDBMS JPA and Hibernate (Updating certain fields in records)
-* Perform CRUD operations on an RDBMS JPA and Hibernate (Deleting records)
+* Perform CRUD operations on an RDBMS JPA and Hibernate (Deleting records) 
 * Understand and implement @Transactional annotation
 
 ## Introduction
